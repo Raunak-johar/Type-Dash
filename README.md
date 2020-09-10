@@ -10,4 +10,6 @@ PyGame
 - Save them all in a single directory
 - Simply run the python scrypt
 
+# Review
+
 
