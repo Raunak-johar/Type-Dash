@@ -11,5 +11,7 @@ PyGame
 - Simply run the python scrypt
 
 # Review
+![](images/initial.png)
+![](images/final.png)
 
 
