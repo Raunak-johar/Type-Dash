@@ -6,7 +6,7 @@ PyGame
 
 # How to run the project?
 
-- Download the python scrypt, audio files and attached .png files
+- Download the attached files
 - Save them all in a single directory
 - Simply run the python scrypt
 
