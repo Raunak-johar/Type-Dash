@@ -1,4 +1,4 @@
-# Typing-Test-Game
+# Type Dash
 A game that monitors your typing speed and helps you to improve it.
 
 # Package used
